@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5c0051/HFL/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 經
+  hash: sha256:c3f773b2ade2af757ac5a192f7f39c83c6118f8158a4057b5fa094f41c70920b
+metadata:
+  title: 南華真經
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-09-11 06:36:00.090056'
+  source:
+    repository: kanripo
+    path: KR5c0051/KR5c0051_001.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:23b70bbe71ef49f5ce1b96971c21aafb4d39b564f341ab27215ce9fe2b65b4e2

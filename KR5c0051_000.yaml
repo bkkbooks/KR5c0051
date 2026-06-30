@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0051/krp/v1/juan/0
+seq: 0
+front:
+  text: 南華真經序
+  hash: sha256:fee5bc8dd7673e259ef5c2a74301030e9face79aecdb0cd55781ae030bf85a7a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0051_SBCK_000-1a}
+body:
+  text: 河南郭象子玄撰夫莊子者可謂知本矣故未始藏其狂言言雖無會而獨應者也夫應而非會則雖當無用言非物事則雖高不行與夫寂然不動不得巳而後起者固有間矣斯可謂知無心者也夫心無為則隨感而應應隨其時言唯謹爾故與化為體流萬代而冥物豈曾設對獨遘而游談乎方外哉此其所以不經而為百家之冠也然莊生雖未體之言則至矣通天地之統序萬物之性逹死生之變而明內聖外王之道上知造物無物下知有物之自造也其言宏綽其旨玄妙至至之道融微旨雅泰然遣放放而不敖故曰不知義之所適猖狂妄行而蹈其大方含哺而熙乎泊鼓腹而游乎混芒至人極乎無親孝慈終於兼忘禮樂復乎已能忠信發乎天光用其光則其朴自成是以神器獨化於玄冥之境而源流深長也故其長波之所蕩高風之所扇暢乎物宜適乎民願弘其鄙解其懸灑落之功未加而矜夸所以散故觀其書超然自以為已當經昆崘涉太虛而游愡恍之庭矣雖復貪婪之人進躁之士暫而攬其餘芳味其溢流倣佛其音影猶足曠然有忘形自得之懷況南華真經篇目第一卷內篇逍遙遊齊物論第二卷養生主人閒世德充符第三卷大宗師應帝王第四卷外篇駢拇馬蹄胠篋在宥第五卷天地天道天運第六卷刻意繕性秋水至樂第七卷逹生山木田子方知北遊第八卷雜篇庚桑楚徐無則陽第九卷外物寓言讓王盜跖第十卷劔漁父列御冦天下
+  hash: sha256:d39a6bdad16b75e96d9f6015b4780a01530fa99c4a249b6d3d8ffc7bf6c52f2b
+metadata:
+  title: 南華真經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-09-11 06:36:00.090056'
+  source:
+    repository: kanripo
+    path: KR5c0051/KR5c0051_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:d784ed90f37ab27535948182f63bf15ce1ae9ecebc5f3c19952f534cf3029ddf

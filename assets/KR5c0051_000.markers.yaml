@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 393, content: 南華眞經序河南郭象子玄撰夫莊子者可謂知本矣故未始藏其狂言言雖無會而獨應者也夫應而非會則雖當無用言非物事則雖高不行與夫寂然不動不得巳而後起者固有間矣斯可謂知無心者也夫心無爲則隨感而應應隨其時言唯謹爾故與化爲體流萬代而冥物豈曾設對獨遘而游談乎方外哉此其所以不經而爲百家之冠也然莊生雖未體之言則至矣通天地之統序萬物之性逹死生之變而明內聖外王之道上知造物無物下知有物之自造也其言宏綽其旨玄妙至至之道融微旨雅㤗然遣放放而不敖故曰不知義之所適猖狂妄行而蹈其大方含哺而熈乎泊鼓腹而游乎混芒至人極乎無親孝慈終於兼忘禮樂復乎已能忠信發乎天光用其光則其朴自成是以神器獨化於玄冥之境而源流深長也故其長波之所蕩高風之所扇暢乎物宜適乎民願弘其鄙解其懸灑落之功未加而矜夸所以散故觀其書超然自以爲已當經崐崘渉太虚而游愡怳之庭矣雖復貪婪之人進躁之士暫而攬其餘芳味其溢流彷彿其音影猶足曠然有忘形自得之懷況南華眞經篇目第一, HFL: ''}
   - {type: variant, offset: 0, length: 0, content: '', ZTDZ: 莊子貞二莊子宋人也名周字休生睢陽蒙縣嘗爲蒙漆園吏學無所不窺要本歸於老子之言故其著書十餘萬言大抵率寓言也其言洸洋自恣以適己故自王公大人不能器之楚威王聞周賢使使厚幣迎之許以爲相周笑謂使者千金重利卿相尊位也子獨不見郊祭之犧牛乎養食之數歲衣以文繡以入太廟當是之時欲爲孤豚其可得乎子亟去無污我我寧游戲污瀆之中自快無爲有國者所羈終身不仕以快吾志焉唐封南華眞人書爲}
   - {type: page-break, offset: 0, content: '', id: KR5c0051_SJB_000-110567a, image: sjb/11/110567a.png}
+  - {type: substitution, offset: 2, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: variant, offset: 4, length: 381, content: 序河南郭象子玄撰夫莊子者可謂知本矣故未始藏其狂言言雖無會而獨應者也夫應而非會則雖當無用言非物事則雖高不行與夫寂然不動不得巳而後起者固有間矣斯可謂知無心者也夫心無爲則隨感而應應隨其時言唯謹爾故與化爲體流萬代而冥物豈曾設對獨遘而游談乎方外哉此其所以不經而爲百家之冠也然莊生雖未體之言則至矣通天地之統序萬物之性逹死生之變而明內聖外王之道上知造物無物下知有物之自造也其言宏綽其旨玄妙至至之道融微旨雅㤗然遣放放而不敖故曰不知義之所適猖狂妄行而蹈其大方含哺而熈乎泊鼓腹而游乎混芒至人極乎無親孝慈終於兼忘禮樂復乎已能忠信發乎天光用其光則其朴自成是以神器獨化於玄冥之境而源流深長也故其長波之所蕩高風之所扇暢乎物宜適乎民願弘其鄙解其懸灑落之功未加而矜夸所以散故觀其書超然自以爲已當經崐崘渉太虚而游愡怳之庭矣雖復貪婪之人進躁之士暫而攬其餘芳味其溢流彷彿其音影猶足曠然有忘形自得之懷況, ZTDZ: ''}
   body:
   - {type: 'kr:newline', offset: 0, content: '
@@ -36,10 +37,12 @@ markers:
 
       ', id: KR5c0051_krp_000-bkkkrnewl6}
   - {type: line-break, offset: 75, content: '', id: KR5c0051_SBCK_000-1a07}
+  - {type: substitution, offset: 79, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 92, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl7}
   - {type: line-break, offset: 92, content: '', id: KR5c0051_SBCK_000-1a08}
+  - {type: substitution, offset: 96, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 109, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl8}
@@ -48,6 +51,8 @@ markers:
 
       ', id: KR5c0051_krp_000-bkkkrnewl9}
   - {type: line-break, offset: 109, content: '', id: KR5c0051_SBCK_000-1b01}
+  - {type: substitution, offset: 111, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
+  - {type: substitution, offset: 124, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 126, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl10}
@@ -68,15 +73,18 @@ markers:
 
       ', id: KR5c0051_krp_000-bkkkrnewl14}
   - {type: line-break, offset: 194, content: '', id: KR5c0051_SBCK_000-1b06}
+  - {type: substitution, offset: 194, original: 㤗, replacement: 泰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19739}}
   - {type: 'kr:newline', offset: 211, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl15}
   - {type: line-break, offset: 211, content: '', id: KR5c0051_SBCK_000-1b07}
+  - {type: substitution, offset: 222, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17668}}
   - {type: 'kr:non-cjk', offset: 224, content: ⬤, id: KR5c0051_krp_000-bkkkrnonc1}
   - {type: 'kr:newline', offset: 227, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl16}
   - {type: line-break, offset: 227, content: '', id: KR5c0051_SBCK_000-1b08}
+  - {type: substitution, offset: 228, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: 'kr:newline', offset: 244, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl17}
@@ -101,10 +109,16 @@ markers:
 
       ', id: KR5c0051_krp_000-bkkkrnewl22}
   - {type: line-break, offset: 312, content: '', id: KR5c0051_SBCK_000-2a05}
+  - {type: substitution, offset: 327, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 329, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl23}
   - {type: line-break, offset: 329, content: '', id: KR5c0051_SBCK_000-2a06}
+  - {type: substitution, offset: 331, original: 崐, replacement: 昆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16697}}
+  - {type: substitution, offset: 333, original: 渉, replacement: 涉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20791}}
+  - {type: substitution, offset: 335, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
+  - {type: substitution, offset: 337, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
+  - {type: substitution, offset: 339, original: 怳, replacement: 恍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17020}}
   - {type: 'kr:newline', offset: 346, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl24}
@@ -113,6 +127,8 @@ markers:
 
       ', id: KR5c0051_krp_000-bkkkrnewl25}
   - {type: line-break, offset: 363, content: '', id: KR5c0051_SBCK_000-2a08}
+  - {type: substitution, offset: 363, original: 彷, replacement: 倣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20198}}
+  - {type: substitution, offset: 364, original: 彿, replacement: 佛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16530}}
   - {type: 'kr:newline', offset: 380, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl26}
@@ -132,6 +148,7 @@ markers:
       ', id: KR5c0051_krp_000-bkkkrnewl30}
   - {type: line-break, offset: 380, content: '', id: KR5c0051_SBCK_000-3a01}
   - {type: page-break, offset: 380, content: '', id: KR5c0051_SJB_000-110567b}
+  - {type: substitution, offset: 382, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: variant, offset: 384, length: 3, content: 篇目第, ZTDZ: 卷之}
   - {type: 'kr:newline', offset: 386, content: '
 
@@ -150,6 +167,7 @@ markers:
       ', id: KR5c0051_krp_000-bkkkrnewl33}
   - {type: line-break, offset: 391, content: '', id: KR5c0051_SBCK_000-3a04}
   - {type: indent, offset: 391, content: 　　　　, id: KR5c0051_krp_000-bkkind4}
+  - {type: substitution, offset: 392, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20748}}
   - {type: indent, offset: 394, content: 　, id: KR5c0051_krp_000-bkkind5}
   - {type: variant, offset: 394, length: 0, content: '', ZTDZ: 第一北冥有魚其名爲鯤鯤之大不知其幾千里也化而爲鳥其名爲鵬鵬之背不知其幾千里也怒而飛其翼若垂天之雲是鳥也海運則將徙於南冥南冥者天池也齊諧者志怪者也諧之言曰鵬之徙於南冥也水擊三千里搏扶摇而上者九萬里去以六月息者也野馬也塵埃也生物之以息相吹也天之蒼蒼其正色邪其遠而無所至極邪其視下也亦若是則已矣且夫水之積也不厚則其負大舟也無力覆杯水於坳堂之上則芥爲之舟置杯焉則膠水淺而舟大也風之積也不厚則其負大翼也無力故九萬里則風斯在下矣而後乃今培風背負青天而莫之夭閼者而後乃今將圖南蜩與鷽鳩笑之曰我决起而飛槍榆枋時則不至而控於地而已矣奚以之九萬里而南爲適莽蒼者三飡而反腹猶果然適百里者宿舂糧適千里者三月聚糧之二蟲又何知小知不及大知小年不及大年奚以知其然也朝菌不知晦朔蟪蛄不知春秋此小年也楚之南有冥靈者以五百歲爲春五百歲爲秋上古有大椿者以八千歲爲春八千歲爲秋而彭祖乃今以乆持聞衆人匹之不亦悲乎湯之問棘也是已窮髮之北有冥海者天池也有魚焉其廣數千里未有知其脩者其名爲鯤有烏焉其名爲鵬背若太山翼若垂天之雲搏扶摇羊角而上者九萬里絶雲氣負青天然後圖南且適南溟也斥鷃笑之曰彼且奚適也我騰躍而上不過數仞而下翱翔蓬蒿之間此亦飛之至也而彼且奚適也此小大之辯也故夫知效一官行比一鄕德合一君而徵一國者其自視也亦若此矣而宋榮子猶然笑之且舉世而譽之而不加勸舉世而非之而不加沮定乎内外之分辯乎榮辱之境斯已矣彼其於世未數數然也雖然猶有未樹也夫列子御風而行泠然善也旬有五日而後反彼於致福者未數數然也此雖免乎行有所待者也若夫乘天地之正而御六氣之辯以遊無窮者彼且惡乎待哉故曰至人無己神人無功聖人無名堯讓天下於許由曰日月出矣而爝火不息其於光也不亦難乎時雨降矣而猶浸灌其於澤也不亦勞乎夫子立而天下治而我猶尸之吾自視缺然請致天下許由曰子治天下天下旣已治也而我猶代子吾將爲名乎名者實之賔也吾將爲賔乎鷦鷯巢於深林不過一枝偃鼠飲河不過滿腹歸休乎君予無所用天下爲庖人雖不治庖尸祝不越樽俎而代之矣肩吾問於連叔曰吾聞言於接輿大而無當往而不反吾驚怖其言猶河漢而無極也大有逕庭不近人情焉連叔曰其言謂何哉曰藐姑射之山有神人居焉肌膚若冰雪綽約若處子不食五穀吸風飲露乘云氣御飛龍而遊乎四海之外其神凝使物不疵癘而年穀熟吾以是狂而不信也連叔曰然瞽者無以與乎文章之觀聾者無以與乎鐘鼓之聲豈唯形骸有聾盲哉夫知亦有之是其言也猶時女也之人也之德也將旁礴萬物以爲一世蘄乎亂孰弊弊焉以天下爲事之人也物莫之傷大浸稽天而不溺大旱金石流土山焦而不熱是其塵垢粃糠將猶陶鑄堯舜者也孰肯以物爲事宋人資章甫而適諸越越人斷髮文身無所用之堯治天下之民平海内之政往見四子藐姑射之山汾水之陽窅然喪其天下焉惠子謂莊子曰魏王貽我大瓠之種我樹之成而實五石以盛水漿其堅不能自舉也剖之以爲瓢則瓠落無所容非不呺然大也吾爲其無用而掊之莊子曰夫子固拙於用大矣宋人有善爲不龜手之藥者世世以洴澼絖爲事客聞之請買其方百金聚族而謀曰我世世爲洴澼絖不過數金今一朝而鬻技百金請與之客得之以說吴王越有難吴王使之將冬與越人水戰大敗越人裂地而封之能不龜手一也或以封或不免於洴澼絖則所用之異也今子有五石之瓠何不慮以爲大樽而浮乎江湖而憂其瓠落無所容則夫子猶有蓬之心也夫惠子謂莊子曰吾有大樹人謂之樗其大本擁腫而不中繩墨其小枝卷曲而不中規矩立之塗匠者不顧今子之言大而無用衆所同去也莊子曰子獨不見狸狌乎卑身而伏以候敖者東西跳梁不避高下中於機辟死於罔罟今夫斄牛其大若垂天之雲此能爲大矣而不能執鼠今子有大樹患其無用何不樹之於無何有之鄕廣漠之野仿徨乎無爲其側逍遥乎寢卧其下不夫斤斧物無害者無所可用安所困苦哉内篇}
   - {type: page-break, offset: 394, content: '', id: KR5c0051_SJB_000-110567c}
@@ -181,6 +199,7 @@ markers:
   - {type: page-break, offset: 403, content: '', id: KR5c0051_SJB_000-110572a}
   - {type: variant, offset: 404, length: 1, content: 閒, ZTDZ: 也惡乎介也天與其人與曰天也非人也天之生是使獨也人之貌有與也以是知其天也非人也澤雉十步一啄百步一飲不蘄畜乎樊中神雖王不善也老聃死秦失弔之三號而出弟子曰非夫子之友邪曰然然則弔焉若此可乎曰然始也吾以爲其人也而今非也向吾入而弔焉有老者哭之如哭其子少者哭之如哭其母彼其所以會之必有不蘄言而言不蘄哭而哭者是遁天倍情忘其所受古者謂之遁天之刑適來夫子時也適去夫子順也安時而處順哀樂不能入也古者謂是帝之縣解指窮於爲薪火傅也不知其盡也内篇人間}
   - {type: page-break, offset: 404, content: '', id: KR5c0051_SJB_000-110572b}
+  - {type: substitution, offset: 404, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: 'kr:newline', offset: 406, content: '
 
       ', id: KR5c0051_krp_000-bkkkrnewl36}
@@ -353,6 +372,7 @@ markers:
   - {type: variant, offset: 484, length: 1, content: 王, ZTDZ: 無}
   - {type: indent, offset: 485, content: 　, id: KR5c0051_krp_000-bkkind42}
   - {type: variant, offset: 485, length: 1, content: 盗, ZTDZ: 聚}
+  - {type: substitution, offset: 485, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: variant, offset: 486, length: 1, content: 跖, ZTDZ: 禄}
   - {type: 'kr:newline', offset: 487, content: '
 
@@ -388,4 +408,4 @@ markers:
   - {type: page-break, offset: 498, content: '', id: KR5c0051_SJB_000-110576b}
   - {type: page-break, offset: 498, content: '', id: KR5c0051_SJB_000-110576c}
   back: []
-hash: sha256:7aacba408213921b5d848bac25c2608b5cba5c29b8c666cd50e5b8c68ad15244
+hash: sha256:2533844d0fed1cb8f2c2408a8986ffe9dcf8d1eb7391e183a245a92f38d2e3e1
